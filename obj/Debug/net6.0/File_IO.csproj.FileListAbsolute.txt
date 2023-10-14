@@ -1,0 +1,17 @@
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.csproj.AssemblyReference.cache
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfoInputs.cache
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfo.cs
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.csproj.CoreCompileInputs.cache
+C:\Users\hshem\source\repos\File_IO\bin\Debug\net6.0\File_IO.exe
+C:\Users\hshem\source\repos\File_IO\bin\Debug\net6.0\File_IO.deps.json
+C:\Users\hshem\source\repos\File_IO\bin\Debug\net6.0\File_IO.runtimeconfig.json
+C:\Users\hshem\source\repos\File_IO\bin\Debug\net6.0\File_IO.dll
+C:\Users\hshem\source\repos\File_IO\bin\Debug\net6.0\File_IO.pdb
+C:\Users\hshem\source\repos\File_IO\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.csproj.CopyComplete
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.dll
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\refint\File_IO.dll
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.pdb
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\File_IO.genruntimeconfig.cache
+C:\Users\hshem\source\repos\File_IO\obj\Debug\net6.0\ref\File_IO.dll
